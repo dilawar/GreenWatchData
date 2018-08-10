@@ -84,7 +84,11 @@ def download_from_table( table, download = True ):
 
         text = ':'.join([ x.text for x in tds[1:] if x.text.strip() ])
         text = text.replace( r'/', '' )
-        d = tr.find_elements_by_xpath( './/input')[-1]
+        d = tr.find_elements_by_xpath( './/input')
+        if not d:
+            continue
+        else:
+            d = d[-1]
         filename = os.path.join( resDir_, '%s.kml' % text )
         if os.path.exists( filename ):
             print( '[INFO] Already downloaded %s' % filename )
@@ -143,12 +147,7 @@ def main( ):
         os.makedirs( resDir_ )
 
     print( '[INFO]  State: %s, Site Type: %s' % (state, siteType))
-    try:
-        download_kmp( state, siteType)
-    except Exception as e:
-        print( 'FAILED: %s' % e )
-        driver.quit()
-
+    download_kmp( state, siteType)
     driver.quit()
 
 if __name__ == '__main__':
