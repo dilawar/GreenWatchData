@@ -81,15 +81,19 @@ def download_from_table( table, download = True ):
             """, ttip)
 
     trs = table.find_elements_by_xpath( './/tr' )
-    for tr in trs:
+    print( 'Found %d records' % len(trs))
+    for i, tr in enumerate(trs):
+        print( ' Row %d' % i, end =  ' ' )
         tds = tr.find_elements_by_xpath('.//td')
         if not tds:
+            print( ' nothing found in this row' )
             continue
 
         text = ':'.join([ x.text for x in tds[1:] if x.text.strip() ])
         text = text.replace( r'/', '' )
         d = tr.find_elements_by_xpath( './/input')
         if not d:
+            print( '  not clickable input found' )
             continue
         else:
             d = d[-1]
@@ -98,9 +102,10 @@ def download_from_table( table, download = True ):
             print( '[INFO] Already downloaded %s' % filename )
             continue
         try:
-            continue
             d.click()
-            print( 'Downloadin by pressing button ID: %s' % d.get_attribute( 'id' ) )
+            print( ' .. downloadin by pressing button ID: %s' % d.get_attribute(
+                'id' ), end = ' ' 
+                )
             downloadedFiles = find_latest_kml_file( )
             if downloadedFiles is not None:
                 assert filename not in all_files_
@@ -133,6 +138,7 @@ def download_kmp( state, siteType):
     for i in range(30):
         table = driver.find_element_by_xpath( '//table[@id="%s"]' % tableId )
         download_from_table( table, download = False )
+
         # refresh the table.
         pages = table.find_elements_by_xpath( './/td[@colspan="11"]//a' )
         if not pages:
