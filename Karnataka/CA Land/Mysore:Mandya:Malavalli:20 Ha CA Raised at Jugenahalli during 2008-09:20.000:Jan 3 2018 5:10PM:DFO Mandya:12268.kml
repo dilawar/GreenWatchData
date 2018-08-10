@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.2583018315176,12.46023612227788,0
+77.25894428598906,12.45675021190436,0
+77.260752676353661,12.457309385240819,0
+77.2606099086932,12.457701996306641,0
+77.261537898485585,12.457356974460881,0
+77.26204948260181,12.45684539034465,0
+77.264012537931649,12.45771389361181,0
+77.263524748425425,12.458225477728041,0
+77.2624777855828,12.45959366780642,0
+77.261157184724652,12.460938063274631,0
+77.26047390565094,12.4608925113364,0
+77.259848481171446,12.46187914010244,0
+77.258239965531288,12.461936247166591,0
+77.257535645073688,12.46194576501051,0
+77.257554680761757,12.461070123360511,0
+77.2592678926859,12.461127230424671,0
+77.259217924004815,12.46040268454834,0
+77.2583018315176,12.46023612227788,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark></Document></kml>

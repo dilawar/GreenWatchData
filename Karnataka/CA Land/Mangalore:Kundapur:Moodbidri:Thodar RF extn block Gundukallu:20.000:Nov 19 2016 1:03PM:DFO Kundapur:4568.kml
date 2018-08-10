@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><MultiGeometry><Point><coordinates>74.9902666546,13.0293166917,0</coordinates></Point><Point><coordinates>74.9897333141,13.0291666556,0</coordinates></Point><Point><coordinates>74.989616638,13.0294833239,0</coordinates></Point><Point><coordinates>74.9872166477,13.0296666361,0</coordinates></Point><Point><coordinates>74.988583317,13.0296666361,0</coordinates></Point><Point><coordinates>74.9858000223,13.0295166839,0</coordinates></Point><Point><coordinates>74.983316632,13.0294499639,0</coordinates></Point><Point><coordinates>74.9830833636,13.0290000234,0</coordinates></Point><Point><coordinates>74.9836499803,13.0284500029,0</coordinates></Point><Point><coordinates>74.9847999774,13.0281333346,0</coordinates></Point><Point><coordinates>74.9866333511,13.0274166819,0</coordinates></Point><Point><coordinates>74.9895500019,13.0262333248,0</coordinates></Point><Point><coordinates>74.9897499941,13.0257999804,0</coordinates></Point><Point><coordinates>74.9914999679,13.0246499833,0</coordinates></Point><Point><coordinates>74.9939833581,13.023283314,0</coordinates></Point><Point><coordinates>74.9944000226,13.0252333637,0</coordinates></Point><MultiGeometry><LineString><coordinates>74.9902666546,13.0293166917,0
+74.9897333141,13.0291666556,0
+74.989616638,13.0294833239,0
+74.988583317,13.0296666361,0
+74.9872166477,13.0296666361,0
+74.9858000223,13.0295166839,0
+74.983316632,13.0294499639,0
+74.9830833636,13.0290000234,0
+74.9836499803,13.0284500029,0
+74.9847999774,13.0281333346,0
+74.9866333511,13.0274166819,0
+74.9895500019,13.0262333248,0
+74.9897499941,13.0257999804,0
+74.9914999679,13.0246499833,0
+74.9939833581,13.023283314,0
+74.9944000226,13.0252333637,0
+74.9902666546,13.0293166917,0</coordinates></LineString></MultiGeometry></MultiGeometry></Placemark></Document></kml>

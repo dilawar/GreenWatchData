@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>76.580247198520169,12.855901512488,0
+76.579766370523714,12.85349559584148,0
+76.57997576309225,12.85284838244786,0
+76.582623119681159,12.851372989719661,0
+76.585686152244762,12.85058729169549,0
+76.58632039598956,12.85105131831779,0
+76.5861776283291,12.85183654044971,0
+76.586394159280644,12.852797842696081,0
+76.585823088639245,12.85323566352116,0
+76.586232831824589,12.85369287695346,0
+76.585775975311435,12.85408310855837,0
+76.585542788132841,12.85440671525515,0
+76.585176351137989,12.85424491190685,0
+76.584859882824219,12.85389632086941,0
+76.584247171615175,12.85350370980359,0
+76.583471368183154,12.85341497573677,0
+76.582953835414344,12.85354584609218,0
+76.5809907800845,12.855383979719189,0
+76.580247198520169,12.855901512488,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark></Document></kml>

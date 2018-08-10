@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><MultiGeometry><Point><coordinates>74.7622777987,14.9754999764,0</coordinates></Point><Point><coordinates>74.7588055953,14.9782777391,0</coordinates></Point><Point><coordinates>74.7589999717,14.9799444806,0</coordinates></Point><Point><coordinates>74.7596110962,14.982388895,0</coordinates></Point><Point><coordinates>74.7614444699,14.984472217,0</coordinates></Point><Point><coordinates>74.7632777598,14.9842777569,0</coordinates></Point><Point><coordinates>74.764527753,14.9829444475,0</coordinates></Point><Point><coordinates>74.7637222521,14.9815277383,0</coordinates></Point><Point><coordinates>74.7639166284,14.9798610806,0</coordinates></Point><Point><coordinates>74.7633333318,14.9783611391,0</coordinates></Point><Point><coordinates>74.7631388716,14.9764444493,0</coordinates></Point><MultiGeometry><LineString><coordinates>74.7622777987,14.9754999764,0
+74.7588055953,14.9782777391,0
+74.7589999717,14.9799444806,0
+74.7596110962,14.982388895,0
+74.7614444699,14.984472217,0
+74.7632777598,14.9842777569,0
+74.764527753,14.9829444475,0
+74.7637222521,14.9815277383,0
+74.7639166284,14.9798610806,0
+74.7633333318,14.9783611391,0
+74.7631388716,14.9764444493,0
+74.7622777987,14.9754999764,0</coordinates></LineString></MultiGeometry></MultiGeometry></Placemark></Document></kml>

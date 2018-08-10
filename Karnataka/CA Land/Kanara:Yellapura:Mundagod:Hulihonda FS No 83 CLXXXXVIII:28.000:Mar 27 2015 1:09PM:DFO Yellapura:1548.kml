@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>74.95890481734375,15.05746068865516,0
+74.958785377988917,15.057063157105461,0
+74.958518923547047,15.056319466664821,0
+74.957898035375777,15.05608852537384,0
+74.957636741165231,15.05619330667427,0
+74.957468948895212,15.056603765399171,0
+74.957235510923113,15.0569734350601,0
+74.957132831210089,15.056987541426871,0
+74.957132245890946,15.055889242042079,0
+74.956444356422466,15.0542436708928,0
+74.955266716150248,15.052914342313571,0
+74.954207737130233,15.052020155556811,0
+74.953207151846556,15.0502904704138,0
+74.953684691447279,15.05024669342648,0
+74.9553889,15.0505278,0
+74.957084283711964,15.050704033740111,0
+74.9588788,15.0527139,0
+74.960726842297476,15.05730783861547,0
+74.959347794216313,15.05734459509465,0
+74.95890481734375,15.05746068865516,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

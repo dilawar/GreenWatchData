@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>74.9486334160164,13.583509466316981,0
+74.948840494581688,13.583281893512069,0
+74.949015591956538,13.583066643501761,0
+74.949262251766186,13.5826956967332,0
+74.9495039139765,13.58238967501981,0
+74.949591125844691,13.58204481161459,0
+74.949630812555512,13.58162623736766,0
+74.949840899597532,13.58126791255391,0
+74.949961773502437,13.58122240297708,0
+74.950156219185715,13.5811096958706,0
+74.950229823231268,13.58092750322546,0
+74.9503973846828,13.58052956392846,0
+74.950613999119469,13.579890391798561,0
+74.951266760605776,13.58218457710816,0
+74.950914524793461,13.582810615945951,0
+74.9506283012551,13.58323038551705,0
+74.950282908005,13.58344556138352,0
+74.949906863111224,13.583840051772951,0
+74.9486334160164,13.583509466316981,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

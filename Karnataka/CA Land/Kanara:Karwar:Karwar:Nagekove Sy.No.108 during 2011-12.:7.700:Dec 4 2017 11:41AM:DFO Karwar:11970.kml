@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><MultiGeometry><Point><coordinates>74.2692509852,14.8304010183,0</coordinates></Point><Point><coordinates>74.2689240072,14.8304339591,0</coordinates></Point><Point><coordinates>74.2684940156,14.8308089655,0</coordinates></Point><Point><coordinates>74.2679549754,14.831151031,0</coordinates></Point><Point><coordinates>74.2660650238,14.8320489842,0</coordinates></Point><Point><coordinates>74.2650109995,14.8327649664,0</coordinates></Point><Point><coordinates>74.2649890389,14.833798036,0</coordinates></Point><Point><coordinates>74.2655533087,14.834934622,0</coordinates></Point><Point><coordinates>74.2678040173,14.8330170102,0</coordinates></Point><Point><coordinates>74.2678600084,14.8320520017,0</coordinates></Point><MultiGeometry><LineString><coordinates>74.2692509852,14.8304010183,0
+74.2689240072,14.8304339591,0
+74.2684940156,14.8308089655,0
+74.2679549754,14.831151031,0
+74.2660650238,14.8320489842,0
+74.2650109995,14.8327649664,0
+74.2649890389,14.833798036,0
+74.2655533087,14.834934622,0
+74.2678040173,14.8330170102,0
+74.2678600084,14.8320520017,0
+74.2692509852,14.8304010183,0</coordinates></LineString></MultiGeometry></MultiGeometry></Placemark></Document></kml>
