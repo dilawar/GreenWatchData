@@ -131,8 +131,14 @@ def download_kmp( state, siteType):
         download_from_table( table, download = False )
         # refresh the table.
         pages = table.find_elements_by_xpath( './/td/a' )
+        if not pages:
+            continue
         for p in pages:
-            href = p.get_attribute( 'href')
+            try:
+                href = p.get_attribute( 'href')
+            except Exception as e:
+                print( 'Could not find href in td' )
+                continue
             if 'Page$%d'% current_page_ in href:
                 try:
                     p.click()
