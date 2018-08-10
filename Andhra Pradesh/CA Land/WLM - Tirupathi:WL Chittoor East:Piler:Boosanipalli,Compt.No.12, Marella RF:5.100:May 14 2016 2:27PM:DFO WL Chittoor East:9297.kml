@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>78.945019999987792,13.79585999997559,0
+78.944959999996584,13.7962699999855,0
+78.9449399999871,13.79650999997574,0
+78.9448300000184,13.79723999998272,0
+78.944829999996955,13.79778999998484,0
+78.944689999974372,13.7981000000183,0
+78.944699999992224,13.79829000000503,0
+78.9443999999915,13.79859999999703,0
+78.943950000010986,13.798100000023849,0
+78.943629999998677,13.797279999993011,0
+78.943339999987657,13.797090000003321,0
+78.943219999981778,13.796789999978349,0
+78.94321000000059,13.79610999997421,0
+78.943149999981344,13.79599999998495,0
+78.9427800000063,13.79594000000945,0
+78.94287000000854,13.795619999992111,0
+78.942889999979982,13.79544999999044,0
+78.94365999998449,13.795169999984649,0
+78.9447399999822,13.79541999998893,0
+78.944870000025418,13.795369999981929,0
+78.944910000008974,13.79556999999479,0
+78.9450000000143,13.795529999985339,0
+78.945019999987792,13.79585999997559,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

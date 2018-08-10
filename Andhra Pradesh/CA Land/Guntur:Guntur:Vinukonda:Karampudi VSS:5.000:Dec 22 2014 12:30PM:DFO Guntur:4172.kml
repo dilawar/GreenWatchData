@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>79.70947621567278,16.393346573281711,0
+79.7104648123888,16.39365635404533,0
+79.711593687001866,16.394238423244641,0
+79.7120117481912,16.393412773591759,0
+79.711997343431662,16.393128485990189,0
+79.712402738839245,16.393015396201879,0
+79.712466375429841,16.392138529854162,0
+79.712275177145841,16.391642794014391,0
+79.711859670561452,16.391716606566408,0
+79.7114243545087,16.391684182826278,0
+79.7111571690342,16.391522127257851,0
+79.710699565701063,16.39150902853773,0
+79.710414437747119,16.39153943728121,0
+79.710534691138278,16.391130319325679,0
+79.710094315259312,16.39109784330839,0
+79.7098926242143,16.3917244750692,0
+79.709738992554833,16.39204986264944,0
+79.709644459821291,16.392488288640688,0
+79.709575186742725,16.392748018798908,0
+79.70947621567278,16.393346573281711,0</coordinates></LineString></Placemark></Document></kml>

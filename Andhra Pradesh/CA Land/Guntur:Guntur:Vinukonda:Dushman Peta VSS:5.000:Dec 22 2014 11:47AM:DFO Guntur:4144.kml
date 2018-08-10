@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>79.724049658007686,16.123742047897579,0
+79.7241733465317,16.123697653642338,0
+79.724824403146528,16.123068855099842,0
+79.7249637069959,16.12333946731874,0
+79.725145673001819,16.123406218916038,0
+79.725361193362446,16.123360922528128,0
+79.72554061424394,16.123602676117841,0
+79.725982870622445,16.12353482031936,0
+79.725965534977917,16.123421882983951,0
+79.726256478375163,16.12311100838831,0
+79.7262178014374,16.1228149659635,0
+79.725586862783857,16.12202694973837,0
+79.725352514302614,16.121699136879879,0
+79.724815316224323,16.121199649694731,0
+79.7245947491286,16.12100880017643,0
+79.724371135771207,16.121231580877971,0
+79.72389115390888,16.12153087301127,0
+79.723352792701689,16.121961435877012,0
+79.723157506555,16.122251027815022,0
+79.723574876816016,16.12319791004974,0
+79.7236592224279,16.123206971734611,0
+79.724049658007686,16.123742047897579,0</coordinates></LineString></Placemark></Document></kml>

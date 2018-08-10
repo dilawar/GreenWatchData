@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>79.60043712103321,16.039768669762811,0
+79.601326369041587,16.039694782475049,0
+79.6019481444442,16.039842990973771,0
+79.602108507776876,16.03983304108122,0
+79.6023303900709,16.040029631785949,0
+79.602944833651748,16.03993868766231,0
+79.602973251352552,16.039810634141961,0
+79.6028971575367,16.039724456899918,0
+79.602672146194024,16.038592236609979,0
+79.602607230479464,16.038145736039059,0
+79.602250063968086,16.03752714657071,0
+79.60155095020977,16.037471672689289,0
+79.601249111011043,16.037409689720771,0
+79.601177594914915,16.037226811368459,0
+79.600876541855115,16.037191718616558,0
+79.600376827580988,16.037256228400139,0
+79.600228762586369,16.037237556911531,0
+79.600209920717063,16.037631261852379,0
+79.600419667472323,16.038286291822811,0
+79.600423935562674,16.0389815340139,0
+79.60043712103321,16.039768669762811,0</coordinates></LineString></Placemark></Document></kml>

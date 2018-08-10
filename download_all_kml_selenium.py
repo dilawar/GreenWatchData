@@ -61,7 +61,10 @@ def html2text( html ):
 def find_latest_kml_file( ):
     global dir_
     files = glob.glob( '%s/*.kml' % dir_ )
-    return max( files, key=os.path.getctime )
+    if files:
+        return max( files, key=os.path.getctime )
+    else
+        return None
 
 def download_from_table( table, download = True ):
     global current_page_
@@ -97,8 +100,9 @@ def download_from_table( table, download = True ):
             d.click()
             print( 'Downloadin by pressing button ID: %s' % d.get_attribute( 'id' ) )
             downloadedFiles = find_latest_kml_file( )
-            shutil.move( downloadedFiles, filename )
-            print( '[INFO] Saving to %s' % filename )
+            if downloadedFiles is not None:
+                shutil.move( downloadedFiles, filename )
+                print( '[INFO] Saving to %s' % filename )
         except Exception as e:
             print( 'Could not click: \n\t%s' % e )
             pass
