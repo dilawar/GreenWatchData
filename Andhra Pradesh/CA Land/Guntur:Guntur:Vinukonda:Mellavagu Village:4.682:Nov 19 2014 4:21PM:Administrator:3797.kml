@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>79.748492999979135,16.335910000044283
+79.74747100000134,16.335982999976306
+79.747425000003375,16.335366999982835
+79.745780999989975,16.335599000005306
+79.74600799999611,16.335288000031319
+79.7474160000249,16.335128000000196
+79.747395999984761,16.334628000014504
+79.746463999975774,16.334627000007462
+79.746730999974034,16.334190000019746
+79.74789399999645,16.334025999997476
+79.747710999995334,16.333096000009
+79.747201999997458,16.333157999952142
+79.747318999978688,16.332920000042407
+79.748465999976816,16.332300000032706
+79.748524999991758,16.332983999969507
+79.748109000006721,16.333038999983057
+79.748056999989885,16.335250000030054
+79.748337999979071,16.335221999993429
+79.748492999979135,16.335910000044283</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

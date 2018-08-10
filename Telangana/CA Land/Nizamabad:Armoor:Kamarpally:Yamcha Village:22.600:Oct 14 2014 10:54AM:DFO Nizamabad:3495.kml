@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>77.974979336070277,18.826164918582158,0
+77.975250314895632,18.825674647119939,0
+77.975898515021868,18.825733022213662,0
+77.9772273401737,18.82577771668457,0
+77.978468533692023,18.82595716385141,0
+77.979608803447334,18.826287207397979,0
+77.980639253940268,18.826291726591961,0
+77.9810975690938,18.826621816755448,0
+77.981075964103368,18.82726421375002,0
+77.98089875805411,18.827678231021729,0
+77.980707785731738,18.828097600601119,0
+77.980301277823941,18.828586658759178,0
+77.980192601215222,18.829355818889631,0
+77.979590219212213,18.829631025207341,0
+77.978916927349843,18.829740318676031,0
+77.977523174490187,18.82957527008627,0
+77.975775438208984,18.828759814717639,0
+77.9745682232316,18.827920954562479,0
+77.974763192273755,18.826795131219178,0
+77.974979336070277,18.826164918582158,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

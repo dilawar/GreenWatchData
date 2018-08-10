@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>81.354493000014955,17.222036999991545
+81.354233999996609,17.22216799998828
+81.35374799999677,17.222091999989875
+81.35357899998013,17.222439999985269
+81.3537610000038,17.223036000010321
+81.353072000027055,17.223426999998985
+81.352111999998613,17.223298000015923
+81.3518059999902,17.222625999986924
+81.351827999979989,17.222170000007665
+81.352393000018111,17.222094000011996
+81.352527999991054,17.221508000018915
+81.3523239999919,17.221410999985928
+81.351894999993547,17.221400999978336
+81.351849000010247,17.220836999994695
+81.352086000021814,17.220587000002428
+81.353068999986235,17.220521000015165
+81.353532000006481,17.22078099997902
+81.354447999994875,17.221777000007037
+81.354493000014955,17.222036999991545</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

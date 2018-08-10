@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>79.106770000016724,13.051949999997017
+79.1065699999713,13.05189999999134
+79.106560000027315,13.051990000012358
+79.106419999962057,13.052160000003289
+79.106449999987433,13.052289999999637
+79.106630000039075,13.052159999993563
+79.106720000030819,13.0524100000091
+79.105590000001726,13.052509999988958
+79.105569999992881,13.052270000006425
+79.105519999956556,13.051819999987426
+79.105049999984089,13.051790000009238
+79.104080000045528,13.051779999993181
+79.103209999990781,13.050910000012442
+79.103179999947287,13.050730000002382
+79.105749999983033,13.051120000004939
+79.10579000001313,13.051420000009287
+79.105580000020367,13.051399999992878
+79.105599999989778,13.051790000003658
+79.1057100000318,13.051870000013977
+79.106359999952033,13.051849999995074
+79.106640000006635,13.051789999995224
+79.106770000016724,13.051949999997017</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><MultiGeometry><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>79.217895,16.641335,0
+79.218126,16.641732,0
+79.218466,16.642224,0
+79.218403992425536,16.642795598681531,0
+79.21922,16.642311,0
+79.219534,16.64198,0
+79.219992,16.641971,0
+79.220328532282039,16.641821812520959,0
+79.22005587070025,16.641641347373991,0
+79.22004,16.641222,0
+79.220109,16.640764,0
+79.220062,16.64062,0
+79.219961,16.64038,0
+79.217895,16.641335,0</coordinates></LineString><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>79.211772,16.629931,0
+79.210167,16.62997,0
+79.210288,16.630612,0
+79.210619,16.630986,0
+79.211067,16.631364,0
+79.211176,16.631839,0
+79.212083,16.632034,0
+79.212083,16.630585,0
+79.211772,16.629931,0</coordinates></LineString><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>79.216156,16.644795,0
+79.216696,16.644857,0
+79.217245,16.644795,0
+79.216275,16.644425,0
+79.216156,16.644795,0</coordinates></LineString></MultiGeometry></Placemark></Document></kml>
