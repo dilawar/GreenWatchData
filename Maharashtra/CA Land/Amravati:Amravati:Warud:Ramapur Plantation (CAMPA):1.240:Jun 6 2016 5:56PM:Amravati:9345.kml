@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><LineString><coordinates>78.362381299996017,21.543988999995054,0
+78.362283999996038,21.543994099995043,0
+78.362124299996026,21.544027799995046,0
+78.361934399996017,21.544056599995038,0
+78.361778999996019,21.544116199995045,0
+78.361695299996015,21.543934399995045,0
+78.361619699996041,21.543753499995045,0
+78.361597499996023,21.543581199995039,0
+78.361535299996035,21.54340829999504,0
+78.361482099996024,21.543233699995035,0
+78.361430199996022,21.543053799995047,0
+78.361514499996019,21.542922399995042,0
+78.361690599996024,21.542839499995043,0
+78.361858399996038,21.542747299995042,0
+78.362033599996039,21.542654699995051,0
+78.362176799996035,21.542648699995048,0
+78.362248099996037,21.542805699995053,0
+78.362363299996034,21.542946999995049,0
+78.362462499996042,21.543103399995051,0
+78.362584599996055,21.543240899995055,0
+78.362658699996032,21.543373599995057,0
+78.362760499996028,21.543530399995056,0
+78.362884499996042,21.543682399995063,0
+78.362926099996031,21.543827899995055,0
+78.362749799996038,21.543876599995059,0
+78.36256169999605,21.543936999995054,0
+78.362381299996017,21.543988999995054,0</coordinates></LineString></Placemark></Document></kml>

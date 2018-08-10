@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>82.666808334749788,24.342996425272009,0
+82.668269972195432,24.342326852004629,0
+82.670204101004032,24.341355022356851,0
+82.669056070842657,24.340848419798,0
+82.669863624340891,24.340316673646129,0
+82.66925571948866,24.34005862232118,0
+82.668416723012726,24.3394147862303,0
+82.668118798261858,24.338898780977718,0
+82.66835551715252,24.33870584147375,0
+82.670211884748042,24.33803531430614,0
+82.671592997309986,24.33794505796897,0
+82.6738089278522,24.33704493953136,0
+82.674163380502534,24.338071645062069,0
+82.673274221172889,24.338937733227279,0
+82.672442751556233,24.3395164603611,0
+82.672267761639958,24.341238190729779,0
+82.673293854795077,24.34389288776666,0
+82.6728789958337,24.34417564081372,0
+82.6685820506491,24.34545508121656,0
+82.669277784795227,24.34764405486013,0
+82.668580754476977,24.34793030137708,0
+82.667754328958154,24.349125521092219,0
+82.6668576811333,24.348480407330442,0
+82.66671452819584,24.347930473259371,0
+82.665986684865842,24.34545526965762,0
+82.665177134553076,24.34358823063123,0
+82.666808334749788,24.342996425272009,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

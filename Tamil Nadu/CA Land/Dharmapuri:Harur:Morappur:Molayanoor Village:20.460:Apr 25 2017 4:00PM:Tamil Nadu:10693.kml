@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><MultiGeometry><LineString><coordinates>78.340860000309519,11.900989999651346
+78.341380000582319,11.901770000551938</coordinates></LineString><Polygon><outerBoundaryIs><LinearRing><coordinates>78.341594410669771,11.900319919383714
+78.340860000309519,11.900989999651346
+78.34013999997903,11.899879999689212
+78.341594410669771,11.900319919383714</coordinates></LinearRing></outerBoundaryIs></Polygon><LineString><coordinates>78.34013999997903,11.899879999689212
+78.339330000711783,11.90055000037861
+78.339650000798926,11.900869999753045
+78.339389998366428,11.90111000031319
+78.3404900010976,11.902420000103167
+78.339939999811648,11.902969999665604
+78.338549998828654,11.901549999939169
+78.337969999328109,11.901820000700271
+78.336229999656766,11.900450000307867
+78.337919999197268,11.899650000197099
+78.3381799987079,11.8991099999244
+78.339830001166376,11.897210000788361
+78.342229999475492,11.899740000275461</coordinates></LineString><LineString><coordinates>78.343378162434888,11.900861835680676
+78.343379998939142,11.900859999158593</coordinates></LineString><Polygon><outerBoundaryIs><LinearRing><coordinates>78.343379998939142,11.900859999158593
+78.341594410669771,11.900319919383714
+78.342229999475492,11.899740000275461
+78.343379998939142,11.900859999158593</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>78.343379999746062,11.900861000613206
+78.342100001529559,11.902140000104771
+78.341380000582319,11.901770000551938
+78.343378162434888,11.900861835680676
+78.343379999746062,11.900861000613206</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark></Document></kml>
