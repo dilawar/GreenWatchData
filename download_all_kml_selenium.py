@@ -35,7 +35,7 @@ profile.set_preference("browser.helperApps.alwaysAsk.force", False);
 profile.set_preference("browser.download.manager.useWindow", False);
 
 options = Options()
-options.add_argument("--headless")
+#  options.add_argument("--headless")
 driver = webdriver.Firefox(firefox_options=options, firefox_profile=profile)
 
 print("[INFO] Firefox Headless Browser Invoked")
@@ -65,7 +65,16 @@ def find_latest_kml_file( ):
 
 def download_from_table( table, download = True ):
     global current_page_
+    global driver
     current_page_ += 1
+
+    # Remove the tooltip
+    ttips = table.find_elements_by_xpath( '//div[@id="tooltip"]' )
+    for ttip in ttips:
+        print( 'Disabling tooltip: %s' % ttip.get_attribute( 'innerHTML') )
+        driver.execute_script("""var element = arguments[0];
+            element.parentNode.removeChild(element);
+            """, ttip)
 
     trs = table.find_elements_by_xpath( './/tr' )
     for tr in trs:
