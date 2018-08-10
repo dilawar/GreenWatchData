@@ -63,7 +63,7 @@ def find_latest_kml_file( ):
     files = glob.glob( '%s/*.kml' % dir_ )
     if files:
         return max( files, key=os.path.getctime )
-    else
+    else:
         return None
 
 def download_from_table( table, download = True ):
