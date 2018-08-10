@@ -76,11 +76,14 @@ def download_from_table( table, download = True ):
         text = ':'.join([ x.text for x in tds[1:] if x.text.strip() ])
         text = text.replace( r'/', '' )
         d = tr.find_elements_by_xpath( './/input')[-1]
+        filename = os.path.join( resDir_, '%s.kml' % text )
+        if os.path.exists( filename ):
+            print( '[INFO] Already downloaded %s' % filename )
+            continue
         try:
             d.click()
             print( 'Downloadin by pressing button ID: %s' % d.get_attribute( 'id' ) )
             downloadedFiles = find_latest_kml_file( )
-            filename = os.path.join( resDir_, '%s.kml' % text )
             shutil.move( downloadedFiles, filename )
             print( '[INFO] Saving to %s' % filename )
         except Exception as e:
