@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>71.397619905266936,22.36366665063245,0
+71.397855466940811,22.364482592646659,0
+71.39697224630865,22.365302633505411,0
+71.396669387382047,22.365577967921549,0
+71.396324410503922,22.365867859152971,0
+71.396149873659468,22.36596427374247,0
+71.395811164936376,22.36596613232437,0
+71.395713337941473,22.365904731551058,0
+71.395559701834614,22.365637066790111,0
+71.395553936736079,22.36562142328523,0
+71.3951627771232,22.3651692179499,0
+71.395011390856453,22.365035268513779,0
+71.394845194540082,22.364907710430849,0
+71.394727960428114,22.36479500304586,0
+71.3947121117158,22.36467559569105,0
+71.394723139888185,22.364447616619628,0
+71.394749776785034,22.36416384634439,0
+71.394822748279637,22.364031721371649,0
+71.395441821974742,22.363953646682891,0
+71.39600410782478,22.363485391596971,0
+71.396166657014689,22.363439289513369,0
+71.39647386128587,22.3633249424397,0
+71.397021045442443,22.363604328221349,0
+71.397619905266936,22.36366665063245,0</coordinates></LineString></Placemark></Document></kml>

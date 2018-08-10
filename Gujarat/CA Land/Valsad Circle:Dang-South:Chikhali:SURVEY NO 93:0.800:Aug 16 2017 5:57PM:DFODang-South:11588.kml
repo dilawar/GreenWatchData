@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>73.677202946787162,20.657382667371831,0
+73.677212897583246,20.65733300673088,0
+73.677222701415147,20.657284079662752,0
+73.6772323615769,20.657235869849011,0
+73.67724206738697,20.65718779446161,0
+73.677251753825388,20.657140052617869,0
+73.67725939951805,20.657102368874192,0
+73.677282910972153,20.6570451637794,0
+73.677295621502353,20.65700999056217,0
+73.677306545117176,20.656983764794031,0
+73.677316175087967,20.656933309184069,0
+73.677324086029671,20.6568918603846,0
+73.677319726022077,20.656884297252049,0
+73.677685560124,20.656956388107059,0
+73.67764178516245,20.657457013378291,0
+73.67714547131061,20.657448570298762,0
+73.677203341353419,20.65741207274597,0
+73.677211345901938,20.65737193749521,0
+73.67721531229121,20.657352049718309,0</coordinates></LineString></Placemark></Document></kml>

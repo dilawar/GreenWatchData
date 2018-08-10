@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><MultiGeometry><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>71.9613558018011,23.01126612900304,0
+71.961405524891191,23.01082620960981,0
+71.9617407236611,23.01066157550089,0
+71.962325399782273,23.010444430318181,0
+71.962450042151744,23.01041187576498,0
+71.9619878033542,23.009372527414872,0
+71.9618351362509,23.0093532616227,0
+71.9606781671098,23.009474423252939,0
+71.960547414803528,23.009504113618881,0
+71.960557967068851,23.0100999810316,0
+71.960836005555421,23.01060552943057,0
+71.9609085984912,23.010810893859961,0
+71.960962124133019,23.01100296584184,0
+71.960991351914018,23.01132118010289,0
+71.9613558018011,23.01126612900304,0</coordinates></LineString><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>71.957544378218842,23.019031868192059,0
+71.955992286316743,23.0179055085673,0
+71.956263315043046,23.017624170777552,0
+71.956755106944584,23.017981821722142,0
+71.957510127091965,23.0184101114981,0
+71.957544378218842,23.019031868192059,0</coordinates></LineString></MultiGeometry></Placemark></Document></kml>
