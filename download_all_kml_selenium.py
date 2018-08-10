@@ -45,6 +45,7 @@ downloadBtnID = 'ctl00_ctl00_dpPH_dpPH_btnSearch'
 tableId = 'ctl00_ctl00_dpPH_dpPH_gdCALs'
 states_ = []
 current_page_ = 1
+all_files_ = [ ]
 
 dir_  = os.path.join( os.environ['HOME'], 'Downloads' )
 resDir_ = None
@@ -97,10 +98,13 @@ def download_from_table( table, download = True ):
             print( '[INFO] Already downloaded %s' % filename )
             continue
         try:
+            continue
             d.click()
             print( 'Downloadin by pressing button ID: %s' % d.get_attribute( 'id' ) )
             downloadedFiles = find_latest_kml_file( )
             if downloadedFiles is not None:
+                assert filename not in all_files_
+                all_files_.append(filename)
                 shutil.move( downloadedFiles, filename )
                 print( '[INFO] Saving to %s' % filename )
         except Exception as e:
@@ -130,9 +134,12 @@ def download_kmp( state, siteType):
         table = driver.find_element_by_xpath( '//table[@id="%s"]' % tableId )
         download_from_table( table, download = False )
         # refresh the table.
-        pages = table.find_elements_by_xpath( './/td/a' )
+        pages = table.find_elements_by_xpath( './/td[@colspan="11"]//a' )
         if not pages:
-            continue
+            print( 'No more pages. Break')
+            break
+
+        found = False
         for p in pages:
             try:
                 href = p.get_attribute( 'href')
@@ -143,9 +150,12 @@ def download_kmp( state, siteType):
                 try:
                     p.click()
                     print( 'Great next page: %s' % current_page_ )
+                    found = True
                     break
                 except Exception as e:
                     print( 'Could not load page: %s' % e )
+        if not found:
+            break
 
 def main( ):
     global driver
