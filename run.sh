@@ -8,3 +8,5 @@ for catype in 'CA Land' 'Diverted Land'; do
         python3 ./download_all_kml_selenium.py "$state" "$catype"
     done
 done
+find . -type f -name "*.kml" > ./list_of_files.md
+fdupes -r -q . > ./duplicates.md
