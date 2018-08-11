@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>81.588354785642707,17.7879531360073,0
+81.590363862272355,17.788915061566161,0
+81.593699193545774,17.790568986883368,0
+81.595267424344357,17.791329379545839,0
+81.595321274724583,17.791354432101471,0
+81.603517109061869,17.795366166310789,0
+81.610493120447373,17.798815386604311,0
+81.618708793075,17.803076973764139,0
+81.625193184052961,17.80665700879392,0
+81.629196256081357,17.810152817543582,0
+81.634899882052366,17.8195922358197,0
+81.640445353193769,17.82131918469425,0
+81.644850775897652,17.8239538989255,0
+81.6502882289533,17.827346765339449,0
+81.653600343631581,17.83072171929118,0
+81.656966824734539,17.833533429281921,0
+81.660803692834619,17.836216932327471,0
+81.661507619060458,17.840574305975171,0
+81.662440675780019,17.8459256724104,0
+81.661740137830449,17.848140025743419,0
+81.658935509252331,17.852502524712939,0
+81.658571423198467,17.85755250571664,0
+81.6584446526385,17.860844737874061,0
+81.658192690784276,17.864001541536162,0
+81.658016747580632,17.865908259174081,0</coordinates></LineString></Placemark></Document></kml>

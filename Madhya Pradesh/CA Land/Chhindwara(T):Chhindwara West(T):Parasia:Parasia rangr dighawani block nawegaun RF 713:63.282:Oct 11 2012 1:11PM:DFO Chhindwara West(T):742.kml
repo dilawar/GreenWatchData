@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>78.839722000058856,22.2194440000109
+78.839166999950848,22.220556000029713
+78.8386110000995,22.221111000016858
+78.8383330000743,22.221666999991836
+78.837777999902414,22.221666999997286
+78.833333000024339,22.222222000036528
+78.829444000107145,22.218611000002067
+78.828056000043532,22.21805600003713
+78.825832999925112,22.217500000001131
+78.825832999986346,22.216943999966308
+78.825832999974,22.21555599999526
+78.828056000046033,22.215556000002497
+78.83305599994867,22.215556000019969
+78.834166999962221,22.21555600004638
+78.83472199997604,22.215556000047926
+78.835278000053535,22.215555999957861
+78.833333000095976,22.2158329999752
+78.83694400004984,22.216944000054212
+78.838611000042278,22.216667000020482
+78.839722000058856,22.2194440000109</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

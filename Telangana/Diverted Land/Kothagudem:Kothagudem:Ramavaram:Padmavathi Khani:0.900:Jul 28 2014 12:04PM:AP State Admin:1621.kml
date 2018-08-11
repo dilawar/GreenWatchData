@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>80.672479125423536,17.503276694004889,0
+80.672505849537274,17.503310952117431,0
+80.673879229202072,17.502525125290848,0
+80.683938136066942,17.510511193200159,0
+80.684618760449823,17.50962209803177,0
+80.684762666969235,17.509718832293711,0
+80.684924763980376,17.50948016860135,0
+80.684626432706565,17.50927259263392,0
+80.684463638488765,17.509507705231751,0
+80.6846011205504,17.50960817245452,0
+80.683948235608526,17.51043433829232,0
+80.681098056998238,17.50817865946048,0
+80.683745,17.505733,0
+80.684028,17.505962,0
+80.684217,17.505762,0
+80.683935,17.505521,0
+80.683844,17.505613,0
+80.681074488655725,17.508145349207361,0
+80.673903554314322,17.502468572868231,0
+80.672479125423536,17.503276694004889,0</coordinates></LineString></Placemark></Document></kml>

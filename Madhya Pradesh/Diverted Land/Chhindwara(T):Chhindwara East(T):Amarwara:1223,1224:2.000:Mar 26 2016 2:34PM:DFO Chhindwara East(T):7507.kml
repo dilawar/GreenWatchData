@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>79.130149135397289,22.25075433667168,0
+79.130488292279168,22.251213935661578,0
+79.130304563763787,22.25168638089265,0
+79.130159329459033,22.25213593022491,0
+79.130020629639631,22.252469950925761,0
+79.130177411847768,22.25295607640393,0
+79.130133384913719,22.253304245399349,0
+79.13007226683645,22.253735485762771,0
+79.130121115714488,22.253989232684312,0
+79.13070669751734,22.254991645383871,0
+79.130901167800175,22.255299677527759,0
+79.131007689953236,22.25578176444618,0
+79.130888322440953,22.256681961833,0
+79.130921680792653,22.257035407282249,0
+79.131029176739744,22.257428763245141,0
+79.13167200235219,22.258262614466862,0
+79.1319850156341,22.258664152336831,0
+79.132059691168209,22.258961390957911,0
+79.132075467765958,22.2593714790381,0
+79.132099278524265,22.25956248702078,0</coordinates></LineString></Placemark></Document></kml>

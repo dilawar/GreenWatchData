@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>78.887395,21.151406,0
+78.887476,21.151437,0
+78.887632,21.151622,0
+78.888136,21.151993,0
+78.888191,21.152033,0
+78.887817,21.152481,0
+78.887633,21.152703,0
+78.887421,21.152957,0
+78.887278,21.152805,0
+78.887166,21.152762,0
+78.88664,21.152565,0
+78.886479,21.152504,0
+78.886399,21.152474,0
+78.886182,21.152392,0
+78.886099,21.152361,0
+78.886066,21.152146,0
+78.88581,21.152005,0
+78.885572,21.151957,0
+78.885471,21.15193,0
+78.886289,21.15145,0
+78.886888,21.151099,0
+78.887166,21.151279,0
+78.887314,21.151374,0
+78.887395,21.151406,0</coordinates></LineString></Placemark></Document></kml>

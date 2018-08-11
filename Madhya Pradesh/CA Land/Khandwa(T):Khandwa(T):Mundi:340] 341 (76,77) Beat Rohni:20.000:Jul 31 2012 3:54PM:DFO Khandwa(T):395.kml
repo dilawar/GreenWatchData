@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>76.43194400008268,22.12333300000229
+76.431111000101907,22.124722000050472
+76.430555999996,22.124999999990138
+76.430000000088754,22.125555999968938
+76.429444000084516,22.125832999960259
+76.4291669999635,22.126110999955042
+76.4286110000528,22.126389000006164
+76.428332999982885,22.126667000000406
+76.42805600003976,22.126667000008421
+76.427777999911712,22.126943999995145
+76.427222000035783,22.126943999985805
+76.426944000021436,22.126944000053612
+76.426666999992165,22.126943999954833
+76.424443999923767,22.127222000000717
+76.42250000002592,22.126944000007093
+76.423332999955775,22.12500000000891
+76.42500000000544,22.124999999966729
+76.426111000063145,22.124721999999778
+76.426110999995814,22.123611000021072
+76.427499999937254,22.123610999982002
+76.427499999977755,22.124443999970204
+76.4277779999291,22.124443999999137
+76.429444000048179,22.124444000000654
+76.429443999937078,22.123889000031504
+76.430556000071178,22.12361100002261
+76.43194400008268,22.12333300000229</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

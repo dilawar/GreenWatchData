@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><MultiGeometry><Polygon><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><outerBoundaryIs><LinearRing><coordinates>76.648222199999992,15.0611111,0
+76.6432222,15.06152780000002,0
+76.643722199999985,15.058027799999969,0
+76.644694400000034,15.057972199999989,0
+76.644972200000026,15.056972200000031,0
+76.645305499999978,15.05688889999997,0
+76.6457222,15.05555549999996,0
+76.646722200000042,15.0554722,0
+76.6468333,15.05500000000001,0
+76.647777799999986,15.054916700000041,0
+76.647833399999968,15.05549999999999,0
+76.647472300000018,15.056083300000021,0
+76.647777799999986,15.05641669999998,0
+76.648333300000033,15.05605550000003,0
+76.648805600000031,15.054305500000011,0
+76.649166699999981,15.05425000000003,0
+76.649250000000023,15.058805500000011,0
+76.648361100000017,15.058944399999961,0
+76.648222199999992,15.0611111,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark></Document></kml>

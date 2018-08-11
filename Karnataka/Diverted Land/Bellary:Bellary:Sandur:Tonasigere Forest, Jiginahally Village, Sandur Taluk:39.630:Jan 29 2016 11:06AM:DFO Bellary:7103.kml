@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><MultiGeometry><Polygon><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><outerBoundaryIs><LinearRing><coordinates>76.5595556,14.9949167,0
+76.557222200000012,14.9960278,0
+76.557000000000016,14.99577780000001,0
+76.55713889999997,14.99391670000003,0
+76.557388900000049,14.993888900000041,0
+76.557166600000031,14.99063889999999,0
+76.5584445,14.99027780000004,0
+76.558916699999983,14.990444399999969,0
+76.559388899999973,14.99075000000003,0
+76.558611100000007,14.9946945,0
+76.559833299999966,14.99441670000002,0
+76.560388900000021,14.99191670000002,0
+76.562222200000008,14.99199999999999,0
+76.561527700000013,14.99405559999998,0
+76.566333299999982,14.99283330000001,0
+76.566138899999984,14.989916700000011,0
+76.569277699999986,14.99030550000003,0
+76.569277699999986,14.99111109999998,0
+76.573194400000048,14.99116669999996,0
+76.5732777,14.99372220000002,0
+76.572694499999983,14.99372220000002,0
+76.5676389,14.99269439999998,0
+76.5606667,14.994499999999981,0
+76.5595556,14.9949167,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark></Document></kml>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>71.484134870267553,22.5375941084225,0
+71.4858264185443,22.535878206252349,0
+71.486688689478115,22.53394550074233,0
+71.4876274675307,22.530828410582519,0
+71.488648877367538,22.525651880583659,0
+71.489676651301622,22.522095685094641,0
+71.488443978930448,22.518349705926109,0
+71.487235259484748,22.515523314029348,0
+71.4862585045095,22.513238143651709,0
+71.484445784191919,22.509188696832052,0
+71.483649418546534,22.506427356708969,0
+71.483246515168659,22.504913406661061,0
+71.485411303042852,22.497128649949278,0
+71.4867477030912,22.492365651461551,0
+71.488806868650883,22.485654677896271,0
+71.488764916937583,22.4845464337768,0
+71.487791070577543,22.482520125821679,0
+71.484206032267124,22.47649990840091,0
+71.482403494385991,22.473499161390709,0
+71.481834558879143,22.47082585925623,0
+71.481776877595649,22.464760647027791,0
+71.483733187538,22.45993492048089,0
+71.485481207245357,22.452357199383641,0
+71.487063606499262,22.450719803071429,0
+71.488286959737621,22.449329204423972,0
+71.488953820614356,22.446863247505789,0
+71.4879148713354,22.444331355349309,0</coordinates></LineString></Placemark></Document></kml>

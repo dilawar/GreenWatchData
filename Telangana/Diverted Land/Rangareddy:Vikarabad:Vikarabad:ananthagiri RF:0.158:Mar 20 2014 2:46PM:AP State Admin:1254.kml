@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>77.880761044582854,17.329729986341349,0
+77.8804517587026,17.329039982377019,0
+77.880119616569658,17.32846508670514,0
+77.8794069399118,17.327257593910879,0
+77.879127145177023,17.326930210473218,0
+77.878821565564024,17.32648485911449,0
+77.878527178314144,17.32606797976721,0
+77.878238298961747,17.325635349233789,0
+77.877885556056128,17.32514072904511,0
+77.877595098236782,17.324718315145159,0
+77.876922592831946,17.324093231951739,0
+77.876570702263336,17.323793018069331,0
+77.876307308592288,17.323635539770351,0
+77.8759655282947,17.32343658036206,0
+77.875693795709708,17.32325783468017,0
+77.874177960710085,17.322274873252269,0
+77.8729003367338,17.321365463471359,0
+77.871983466421582,17.320834146790379,0
+77.871204465126567,17.320202558988189,0
+77.87059299294242,17.319285089861779,0
+77.870329650168529,17.318508376690161,0
+77.870492212169609,17.317065324474068,0
+77.870744602035785,17.315981240407471,0
+77.870791225261655,17.315131377898432,0
+77.870760983160451,17.3138864612044,0
+77.871012650528,17.312477175798708,0
+77.87132677229809,17.31075687699601,0</coordinates></LineString></Placemark></Document></kml>

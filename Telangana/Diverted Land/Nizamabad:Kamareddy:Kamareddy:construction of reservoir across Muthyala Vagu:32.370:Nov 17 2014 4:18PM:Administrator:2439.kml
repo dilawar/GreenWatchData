@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>78.389169999977341,18.498210000000327
+78.388339999995054,18.498260000011904
+78.388619999963367,18.500010000012409
+78.387440000023219,18.500320000010589
+78.386000000023969,18.500030000033707
+78.385300000023463,18.499720000042462
+78.38601999998798,18.499120000023098
+78.38604999998725,18.498670000037251
+78.385220000045962,18.49792999997571
+78.384409999967374,18.496559999989273
+78.384420000017272,18.496039999998406
+78.385019999963745,18.495439999949149
+78.38593000002507,18.494949999990403
+78.386140000023985,18.495130000050661
+78.385960000041777,18.495679999956931
+78.386239999993649,18.495899999996535
+78.386970000020753,18.495510000042479
+78.387370000022187,18.49625999998014
+78.388230000036373,18.495779999982993
+78.38860000003848,18.49689999997835
+78.388949999960573,18.496970000029581
+78.389169999977341,18.498210000000327</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

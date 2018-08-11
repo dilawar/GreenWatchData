@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>80.189722000000387,23.580250000000831,0
+80.189249999984625,23.580971999987181,0
+80.187527999974819,23.58005599998766,0
+80.187944000000954,23.579639000007649,0
+80.189722000000387,23.580250000000831,0</coordinates></LinearRing></outerBoundaryIs></Polygon><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>80.189820622801363,23.58128275713463,0
+80.190103296383327,23.581888012388049,0
+80.190275944460026,23.5818743077896,0
+80.190651985825525,23.581689397274928,0
+80.191049972945635,23.582178025978958,0
+80.19085670646993,23.58232490218823,0
+80.190585963611809,23.582407080636049,0
+80.1903984562411,23.582469013653778,0
+80.190045880304339,23.582503008844149,0
+80.189754084856375,23.582502090316371,0
+80.189384788111468,23.582526257540991,0
+80.18930368652309,23.582415547958131,0
+80.189257881847752,23.582278633675781,0
+80.189183514924736,23.581923604248129,0
+80.18914084592582,23.58163984616117,0
+80.189820622801363,23.58128275713463,0</coordinates></LineString><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>80.190241257498244,23.584193249248209,0
+80.19095396875349,23.5837494264955,0
+80.191766447190261,23.584438271407478,0
+80.19093422935714,23.584946012279548,0
+80.190241257498244,23.584193249248209,0</coordinates></LineString></MultiGeometry></Placemark></Document></kml>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>80.856111644523168,17.857391209155171,0
+80.856384719624742,17.85851016602896,0
+80.85611645893357,17.85858611119766,0
+80.854207891096038,17.858886007251829,0
+80.853709564575638,17.859307336322349,0
+80.853491132599132,17.859952407370891,0
+80.853097279201378,17.860876964546058,0
+80.852799474559077,17.861183672435391,0
+80.852391109068677,17.861183729911541,0
+80.850796577313517,17.8603880656923,0
+80.849490083418289,17.86066262352286,0
+80.847913088962429,17.860598661248019,0
+80.846513925432447,17.86078932042863,0
+80.845608791907281,17.86109708632371,0
+80.844513601580957,17.861002772390851,0
+80.844088582206453,17.86039159301021,0
+80.844006313402843,17.860040249677169,0
+80.856111644523168,17.857391209155171,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

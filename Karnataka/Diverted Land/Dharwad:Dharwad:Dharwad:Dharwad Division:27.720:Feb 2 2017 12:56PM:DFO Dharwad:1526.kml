@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>74.917165333527123,15.48303179632113,0
+74.918756356689642,15.485757353851341,0
+74.916541456632118,15.485381987947621,0
+74.916462090446728,15.48613936931504,0
+74.916334148587367,15.48662421776319,0
+74.915456271068066,15.48658961135153,0
+74.914712753072507,15.486753185245251,0
+74.914551458286439,15.48536638720503,0
+74.9150027894842,15.4842614223398,0
+74.913262521529731,15.483765473353079,0
+74.909382869565164,15.48332639522293,0
+74.9067566868442,15.48338082530535,0
+74.908733167981922,15.48154202349793,0
+74.910202023159528,15.48040277339045,0
+74.917165333527123,15.48303179632113,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

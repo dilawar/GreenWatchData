@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><MultiGeometry><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>75.041201546718924,14.97662723742468,0
+75.04137255099711,14.976475854145,0
+75.043286156698272,14.977127525164161,0
+75.046096673382479,14.977960584574941,0
+75.048013537894477,14.97857516405122,0
+75.050122239777963,14.978992424518021,0
+75.051979262746883,14.98052453404855,0
+75.05386801295,14.98211277987032,0
+75.0561604932132,14.98404040615117,0
+75.057718227954339,14.98537304157718,0
+75.059821760885683,14.987117000461151,0
+75.062335738377513,14.98844359270862,0
+75.0650086158011,14.989826028009119,0
+75.06780541109876,14.99128921588215,0
+75.0704041632208,14.992700298927121,0
+75.073037160501272,14.99265210967358,0
+75.075454462345718,14.99261672266222,0</coordinates></LineString><Polygon><outerBoundaryIs><LinearRing><coordinates>75.040198782963387,14.97690979300865,0
+75.040639741568612,14.97660219717832,0
+75.041154768436655,14.9763566431362,0
+75.041316960741611,14.976681453982071,0
+75.040500733972678,14.97716792083971,0
+75.040198782963387,14.97690979300865,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark></Document></kml>

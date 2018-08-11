@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>78.875793879753914,24.74495872255142,0
+78.875825287809178,24.74422304857962,0
+78.875874626819751,24.7434884511418,0
+78.875902501513778,24.74275113496072,0
+78.875995414397252,24.741635498210218,0
+78.876225904777044,24.738829284339062,0
+78.877389348921014,24.739021869228189,0
+78.878560934989963,24.73870378917373,0
+78.878842479948119,24.738535654226069,0
+78.879245482879554,24.738443890271089,0
+78.879332182178,24.7384494657529,0
+78.879563614937069,24.73843755430552,0
+78.879668352928149,24.73845862845808,0
+78.879825855060417,24.7384445846218,0
+78.880022256029278,24.738462181224751,0
+78.88011869023903,24.73851338180113,0
+78.884076038226908,24.739271458007131,0
+78.884137204642883,24.745456062116649,0
+78.882714142372222,24.745488754947509,0
+78.881018839552482,24.745478906437921,0
+78.879710824133824,24.745424968158719,0
+78.878694375997384,24.745406430940811,0
+78.877576873826882,24.745248598163581,0
+78.875793879753914,24.74495872255142,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

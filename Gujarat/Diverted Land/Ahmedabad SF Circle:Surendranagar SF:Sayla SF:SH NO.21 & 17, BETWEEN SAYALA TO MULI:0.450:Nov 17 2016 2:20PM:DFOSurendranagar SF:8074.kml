@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>71.485722523041929,22.55143600674138,0
+71.48389520949533,22.55267463066037,0
+71.483070854121266,22.553295739841179,0
+71.48202758272285,22.554744098322331,0
+71.481853174175711,22.55716511280087,0
+71.481017637300425,22.56578041518372,0
+71.480505804242185,22.571841504787159,0
+71.479718437012565,22.578734383109261,0
+71.479060265336813,22.584342415350349,0
+71.479271909289352,22.58677536580802,0
+71.478142171278733,22.592353162785638,0
+71.477715889556976,22.594665146295981,0
+71.475958591970581,22.598487936901819,0
+71.474480317008883,22.6013394768757,0
+71.472297432749556,22.604114436834859,0
+71.470534129482928,22.6085007531529,0
+71.468381289360138,22.61086213706454,0
+71.466311765835087,22.615285819707069,0
+71.464581899699354,22.618703078747512,0
+71.46304391021647,22.6202212034891,0
+71.461356478110986,22.622960861036258,0
+71.460188350760831,22.62523158995047,0
+71.45947469255205,22.626813011360959,0
+71.461293003349027,22.62906944005206,0
+71.463145309060252,22.631325193166141,0
+71.4633794987845,22.631859888457448,0
+71.463758509399938,22.634264050900271,0</coordinates></LineString></Placemark></Document></kml>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>74.128437195991467,14.92029744132077,0
+74.127902104466031,14.91928386073214,0
+74.12784531009062,14.918798863531711,0
+74.129116810307053,14.918652183640891,0
+74.129078440911783,14.917315817650829,0
+74.128575248699349,14.917143902730579,0
+74.128598857348962,14.9156442777452,0
+74.129903590081625,14.914249167191141,0
+74.13057061758785,14.914254333427181,0
+74.131931970703988,14.91229112861644,0
+74.134442054606609,14.913544950611289,0
+74.134197037904741,14.91392309986874,0
+74.133997529651054,14.91601751964018,0
+74.133367405236058,14.91634871464735,0
+74.133046342766718,14.917655318512811,0
+74.13127898829778,14.91833899781046,0
+74.130023123956121,14.919825800793509,0
+74.128437195991467,14.92029744132077,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
