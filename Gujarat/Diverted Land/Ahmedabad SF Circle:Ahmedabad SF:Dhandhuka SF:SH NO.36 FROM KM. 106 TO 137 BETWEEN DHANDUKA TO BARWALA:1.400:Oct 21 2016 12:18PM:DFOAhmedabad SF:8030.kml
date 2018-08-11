@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><MultiGeometry><Point><coordinates>71.977075178216808,22.3595161884524,0</coordinates></Point><LineString><gx:altitudeMode>clampToGround</gx:altitudeMode><tessellate>1</tessellate><coordinates>71.977078136720209,22.359526465292561,0
+71.976524008701375,22.358359059042549,0
+71.9747345521921,22.354593492177351,0
+71.973332497426085,22.351612643818889,0
+71.9699680477099,22.344472798251839,0
+71.964673114304276,22.33320792689717,0
+71.934137338692253,22.268396843244059,0
+71.921191788076527,22.252447210191072,0
+71.915292592924033,22.240252784217279,0
+71.912972699231474,22.23053428136139,0
+71.8902287540281,22.1924238937085,0
+71.896444524935362,22.151840282573129,0
+71.893970389803769,22.113082081307422,0
+71.893394139740252,22.103616644807939,0
+71.893126268808913,22.099395693925349,0</coordinates></LineString><Point><coordinates>71.893133724889509,22.099396780562891,0</coordinates></Point></MultiGeometry></Placemark></Document></kml>

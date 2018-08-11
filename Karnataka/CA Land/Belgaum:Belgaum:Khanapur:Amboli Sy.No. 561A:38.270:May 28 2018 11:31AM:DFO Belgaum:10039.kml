@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><Polygon><outerBoundaryIs><LinearRing><coordinates>74.422269244403935,15.64358585343812,0
+74.4220379626488,15.64365244446674,0
+74.421435351601843,15.64325121329424,0
+74.418105721775575,15.64146299372832,0
+74.418625423820629,15.64119689286084,0
+74.420205369889928,15.64014466937093,0
+74.421428345865309,15.63943517585269,0
+74.423800843749348,15.64159813598407,0
+74.4263025571507,15.64226721734855,0
+74.42675923151333,15.644027453904339,0
+74.4270002488943,15.645908543541619,0
+74.42798009203247,15.646268178737049,0
+74.428256264694568,15.6464224632008,0
+74.42964587081039,15.647479547037589,0
+74.427419794393529,15.648560674289239,0
+74.4254562217604,15.647845689669831,0
+74.423870861210133,15.64435396117619,0
+74.423520891933492,15.64334275454609,0
+74.422454155391975,15.643541732819029,0
+74.422269244403935,15.64358585343812,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>

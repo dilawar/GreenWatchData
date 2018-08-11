@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"><Document><name>Generated document</name><StyleMap id="msn_ylw-pushpin"><Pair><key>normal</key><styleUrl>#sn_ylw-pushpin</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#sh_ylw-pushpin</styleUrl></Pair></StyleMap><Style id="sn_ylw-pushpin"><IconStyle><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Style id="sh_ylw-pushpin"><IconStyle><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon><hotSpot x="20" y="2" xunits="pixels" yunits="pixels" /></IconStyle><LineStyle><color>ff00ffff</color><width>2.5</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style><Placemark><name>Concurrent Campa Evaluation and Monitoring System</name><styleUrl>#msn_ylw-pushpin</styleUrl><MultiGeometry><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>76.528378,15.195417,0
+76.52867,15.196083,0
+76.527812,15.196175,0
+76.527747,15.195894,0
+76.525365,15.195114,0
+76.525387,15.193772,0
+76.520558,15.193122,0
+76.507305,15.187557,0
+76.508267,15.185709,0
+76.516043,15.182322,0
+76.519084,15.181898,0
+76.52328,15.189443,0
+76.528592,15.192368,0
+76.529287,15.193452,0
+76.529238,15.194167,0
+76.529791,15.19454,0
+76.52992,15.19454,0
+76.529628,15.195336,0
+76.52919,15.195401,0
+76.529076,15.195206,0
+76.528378,15.195417,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>76.504976,15.184182,0
+76.503744,15.18757,0
+76.498714,15.186851,0
+76.498663,15.181359,0
+76.504976,15.184182,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></MultiGeometry></Placemark></Document></kml>
