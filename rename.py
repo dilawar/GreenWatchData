@@ -19,11 +19,13 @@ def rename( f ):
     newname = newname.replace( ' ', '_' )
     if f == newname:
         return
+
     print( '- %s TO %s' % ( f, newname) )
-    try:
-        shutil.move( f, newname )
-    except Exception as e:
-        print( '[WARN] Failed to move %s' % f )
+    destDir = os.path.dirname( newname )
+    if not os.path.isdir( destDir ):
+        os.makedirs( destDir )
+
+    shutil.move( f, newname )
 
 def main():
     files = []
