@@ -98,6 +98,7 @@ def download_from_table( table, download = True ):
         else:
             d = d[-1]
         filename = os.path.join( resDir_, '%s.kml' % text )
+        filename = filename.replace( ' ', '_' )
         if os.path.exists( filename ):
             print( '[INFO] Already downloaded %s' % filename )
             continue
