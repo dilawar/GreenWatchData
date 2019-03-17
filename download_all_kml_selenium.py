@@ -35,7 +35,7 @@ profile.set_preference("browser.helperApps.alwaysAsk.force", False);
 profile.set_preference("browser.download.manager.useWindow", False);
 
 options = Options()
-options.add_argument("--headless")
+#  options.add_argument("--headless")
 driver = webdriver.Firefox(firefox_options=options, firefox_profile=profile)
 
 print("[INFO] Firefox Headless Browser Invoked")

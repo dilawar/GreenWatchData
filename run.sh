@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 set -x
 set -e
+python3 -m pip install -r ./requirements.txt --user
 for catype in 'CA Land' 'Diverted Land'; do
     for state in 'Andhra Pradesh' 'Telangana' 'Karnataka' \
         'Rajasthan' 'Gujarat' 'Maharashtra' 'Madhya Pradesh' \
